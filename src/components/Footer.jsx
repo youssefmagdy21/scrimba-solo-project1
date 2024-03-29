@@ -10,13 +10,13 @@ function Footer() {
         <img src={TwitterIcon} alt="TwitterIcon" />
       </a>
       <a href="/">
-        <img src={FacebookIcon} alt="TwitterIcon" />
+        <img src={FacebookIcon} alt="FacebookIcon" />
       </a>
       <a href="/">
-        <img src={InstagramIcon} alt="TwitterIcon" />
+        <img src={InstagramIcon} alt="InstagramIcon" />
       </a>
       <a href="/">
-        <img src={GitHubIcon} alt="TwitterIcon" />
+        <img src={GitHubIcon} alt="GitHubIcon" />
       </a>
     </div>
   );

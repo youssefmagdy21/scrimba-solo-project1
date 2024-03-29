@@ -5,11 +5,7 @@ import LinkedInIcon from "../assets/linkedin.png";
 function Info() {
   return (
     <div className=" text-center">
-      <img
-        src={ProfilePic}
-        alt="profile picture"
-        className="w-full rounder-xl"
-      />
+      <img src={ProfilePic} alt="profile picture" className="w-full" />
       <div className="my-5">
         <h1 className=" font-bold text-2xl text-primaryFont dark:text-white">
           Laura Smith
